@@ -20,7 +20,7 @@ ml-engineering-roadmap/
 ### Step 1: Clone the repository
 
 ```bash
-git clone REPLACE_WITH_GITHUB_URL
+git clone https://github.com/aileentngu/ml-engineering-roadmap.git
 cd ml-engineering-roadmap
 ```
 
